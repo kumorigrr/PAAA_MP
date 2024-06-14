@@ -1,0 +1,7 @@
+All images or icons , objects might be copy-righted.
+Do not share to others. Personal-use only !
+
+How to open :
+1. Open Assets/Scene/Game Scene with Unity version 2021 or newer versions
+2. Install plugin Cinemachine free in Package Manager
+3. Press Play and enjoy ^ ^
